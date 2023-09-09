@@ -1,4 +1,5 @@
 # Stable Diffusion web UI
+Only use 0cc0ee1bcb4c24a8c9715f66cede06601bfc00c8 since I have comptiable issue with the latest repo
 A browser interface based on Gradio library for Stable Diffusion.
 
 ![](screenshot.png)
